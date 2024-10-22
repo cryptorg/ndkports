@@ -25,4 +25,4 @@ To build a port using `ndkports`, follow these steps:
 
 //Run locally
 
-./gradlew -PndkPath="/Users/ronaldgoedeke/Library/Android/sdk/ndk/26.1.10909125" -Prelease release
+./gradlew -PndkPath="/Users/{username}/Library/Android/sdk/ndk/26.1.10909125" -Prelease release
